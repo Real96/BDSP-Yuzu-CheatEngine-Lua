@@ -18,12 +18,12 @@ Lua script for RNG abusing in Pokémon Brilliant Diamond and Shining Pearl on Yu
 * Updated game to version 1.1.1+
 
 ## Usage
-* Open Yuzu/Ryujinx, run the game and pause it at the title screen
-* Open Cheat Engine, click on `Edit > Settings`, select `Scan Settings` and check `MEM_MAPPED` option
-* Click on `File > Open Process` and select Yuzu/Ryujinx process (Yuzu will look like `xxxx-yuzu xxx | game name`, Ryujinx will look like `xxxx-Ryujinx x.x.xxxx - game name`)
-* Click on `Table > Show Cheat Table Lua Script`. A new window called `Lua Script: Cheat Table` will appear
-* Open `BDSP_RNG (v1.x.x).lua` with a text editor, copy all its content and paste it in the window opened before
-* Click `Execute Script`. It will freeze for some seconds, just wait until all the rng info will be printed in a new window
+1) Open Yuzu/Ryujinx, run the game and pause it at the title screen
+2) Open Cheat Engine, click on `Edit > Settings`, select `Scan Settings` and check `MEM_MAPPED` option
+3) Click on `File > Open Process` and select Yuzu/Ryujinx process (Yuzu will look like `xxxx-yuzu xxx | game name`, Ryujinx will look like `xxxx-Ryujinx x.x.xxxx - game name`)
+4) Click on `Table > Show Cheat Table Lua Script`. A new window called `Lua Script: Cheat Table` will appear
+5) Open `BDSP_RNG (v1.x.x).lua` with a text editor, copy all its content and paste it in the window opened before
+6) Click `Execute Script`. It will freeze for some seconds, just wait until all the rng info will be printed in a new window
 
 ## Notes
 * To change the info view tab mode, press the keys shown in the script output
